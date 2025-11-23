@@ -11,6 +11,7 @@ Both are fully CRUD-enabled, clean, beginner-friendly, and perfect for portfolio
 📁 Folder Structure
 ├──README.md
 ├── app.js
+├── librarySchema.js
 ├── server.js
 └── student-server.js
 
